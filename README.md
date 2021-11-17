@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @razvanmarales
+- 👀 I’m interested in product development.
+- 🌱 I’m currently learning cloud technologies.
